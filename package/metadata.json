@@ -1,0 +1,16 @@
+{
+    "KPlugin": {
+        "Id": "org.hodglim.claudeusage",
+        "Name": "Claude Usage",
+        "Description": "Shows your Claude 5-hour session usage and reset time",
+        "Icon": "utilities-system-monitor",
+        "Category": "System Information",
+        "Authors": [{ "Name": "hodglim" }],
+        "Version": "1.0",
+        "License": "MIT"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "SystemServices"
+}
